@@ -1,0 +1,156 @@
+/* Override for the primary background color */
+
+.primary-bg-color {
+    background-color: white;
+}
+
+/* Override for the index buttons color */
+
+.btn-outline-primary {
+	background-color: #c30606;
+	padding: 15px;
+	color: #fff;
+	border: 0px;
+	border-radius: 45px;
+}
+
+.btn-outline-primary:hover {
+	background-color: #691c0a;
+
+}
+
+/* Cart button manipulations */
+
+.btn {
+	border: none;
+	border-radius: 45px;
+	background-color: #c30606;
+	color: #ffffff;
+	padding: 15px 20px 15px 20px;
+}
+
+.btn:hover {
+	background-color: #691c0a;
+	color: #ffffff;
+}
+
+.cart-btn {
+	background-color: #c30606;	
+	
+}
+
+.badge {
+	
+	background-color: #000000;
+}
+
+/*Card manipulation*/
+
+.card {
+	border: none;
+	border-radius: 10px;
+	box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.1);
+}
+
+
+.below-nav {
+            
+            border-bottom: solid 1px;
+            border-color: #C3060638;
+            padding-bottom: 10px;    
+          	margin-bottom: 50px;
+
+        }
+   
+.cart-acc {
+            padding: 20px;
+        }
+
+   		
+.mcit-bg {
+           background-color: #F2E7E7;    
+           margin-top: 100px;
+           padding-top: 5em;
+           padding-bottom: 4em;;        
+        }
+
+.footer-ln {
+            text-decoration: none;
+            color: #691C0A;
+            font-family: Roboto;
+            font-size: 15px;
+           }
+
+.footer-ln:hover {
+            color: #691C0A;
+          text-decoration:none;
+        }
+
+.header-col {
+       	    color: #060223;
+            font-weight: 800;
+           
+        }
+   
+.header-col:hover{
+          color: #060223;
+        } 
+
+.cp-right {
+            padding-top: 16px ;
+            padding-bottom: 16px;
+            background-color: #C30606;
+        }
+   
+.nav-bar {
+           background-color: #F2E7E7;    
+            padding-top: 10px;
+            padding-bottom: 10px;
+          	margin-bottom: 20px;
+        }
+
+.header-ln {
+            text-decoration: none;
+            color: #060223;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 500;
+            margin-right: 20px;
+           }
+
+.header-ln:hover {
+            color: #691C0A;
+        }
+   
+.header-ln:active {
+          color: #691C0A;
+          background-color: #E3D6D6;
+        }
+   
+.header-ln:visited {
+          color: #691C0A;
+          
+        }
+
+.header-btn {
+            background-color: #C30606;
+            border: none;
+            border-radius: 45px;
+            padding: 10px 20px 10px 20px;
+          	transition: all .2s ease-in-out; 
+        }
+   
+.header-btn:hover {
+          background-color: #691C0A;
+          transform: scale(1.1); 
+        }
+   
+.drop-dw-menu {
+          background-color: #F2E7E7;
+          color: #060223;
+          padding: 15px 15px 15px 15px;
+          font-weight: 500;
+}
+   
+
+
